@@ -1,0 +1,16 @@
+C:\Users\Gals\Desktop\Witsml_api\bin\Release\net6.0-windows\Witsml_api.exe
+C:\Users\Gals\Desktop\Witsml_api\bin\Release\net6.0-windows\Witsml_api.deps.json
+C:\Users\Gals\Desktop\Witsml_api\bin\Release\net6.0-windows\Witsml_api.runtimeconfig.json
+C:\Users\Gals\Desktop\Witsml_api\bin\Release\net6.0-windows\Witsml_api.dll
+C:\Users\Gals\Desktop\Witsml_api\bin\Release\net6.0-windows\Witsml_api.pdb
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.Form2.resources
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.csproj.GenerateResource.cache
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.AssemblyInfoInputs.cache
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.AssemblyInfo.cs
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.csproj.CoreCompileInputs.cache
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.dll
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\refint\Witsml_api.dll
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.pdb
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\Witsml_api.genruntimeconfig.cache
+C:\Users\Gals\Desktop\Witsml_api\obj\Release\net6.0-windows\ref\Witsml_api.dll

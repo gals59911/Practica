@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Witsml_api</id>
+    <version>1.0.0</version>
+    <authors>Witsml_api</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Gals\Desktop\Witsml_api\bin\Debug\net6.0-windows\Witsml_api.runtimeconfig.json" target="lib\net6.0-windows7.0\Witsml_api.runtimeconfig.json" />
+    <file src="C:\Users\Gals\Desktop\Witsml_api\bin\Debug\net6.0-windows\Witsml_api.dll" target="lib\net6.0-windows7.0\Witsml_api.dll" />
+  </files>
+</package>
